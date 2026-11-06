@@ -321,4 +321,4 @@ OpenEDR on the Windows VM writes its endpoint telemetry to JSON log files. Fileb
 ## Author
 
 **Md. Jamal Uddin**
-Junior SOC Analyst technical assessment, Bengal Infosec Limited
+SOC / Cybersecurity home lab project
